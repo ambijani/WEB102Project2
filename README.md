@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Development Project 2 - *Name of App Here*
 
 Submitted by: Alymuhammad Bijani
@@ -44,3 +45,6 @@ GIF created with ...
 Describe any challenges encountered while building the app.
 
 Styling the app, definitely LOL
+=======
+# WEB102Project2
+>>>>>>> a8ff03422b4c8acc281c1afa93c310499a03666e
