@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - The Ultimate Human
 
 Submitted by: Alymuhammad Bijani
 
@@ -31,20 +30,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ambijani/WEB102Project2/blob/main/Recording2024-03-02134754-ezgif.com-video-to-gif-converter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ezgif.com
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 Styling the app, definitely LOL
-=======
-# WEB102Project2
->>>>>>> a8ff03422b4c8acc281c1afa93c310499a03666e
